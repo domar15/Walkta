@@ -1719,5 +1719,11 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-05-13 06:51:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
