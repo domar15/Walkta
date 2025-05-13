@@ -20255,3 +20255,215 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13May2025 05:36:17.634] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
 [13May2025 05:36:43.621] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [13May2025 05:37:17.779] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[13May2025 05:38:02.790] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[13May2025 05:38:02.790] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[13May2025 05:38:02.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 05:38:02.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 05:38:55.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[13May2025 05:39:12.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Gamerule playersSleepingPercentage is now set to: 1]
+[13May2025 05:39:55.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Sweet Dreams]
+[13May2025 05:41:57.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Stone Age]
+[13May2025 05:42:10.617] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:42:15.166] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:42:18.668] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:42:30.067] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:42:33.068] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:42:47.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Getting an Upgrade]
+[13May2025 05:43:04.890] [IO-Worker-100/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[13May2025 05:43:04.891] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[13May2025 05:43:04.896] [IO-Worker-105/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[13May2025 05:43:04.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 05:43:04.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 05:43:20.069] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:43:23.468] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:43:31.675] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/485, l='ServerLevel[world]', x=24.67, y=64.00, z=-130.71] died, message: 'Farmer was shot by Warrior'
+[13May2025 05:43:49.229] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 42 messages to dispatch.
+[13May2025 05:43:49.274] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[13May2025 05:43:49.325] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[13May2025 05:43:49.375] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[13May2025 05:43:49.427] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[13May2025 05:43:49.474] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[13May2025 05:43:49.525] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[13May2025 05:43:49.548] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[13May2025 05:43:49.549] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[13May2025 05:43:49.549] [Netty Epoll Server IO #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@56d0d[id=<null>,name=zimee777,properties={},legacy=false] (/127.42.207.129:51211): Unexpected custom data from client
+[13May2025 05:43:49.576] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56d0d[id=<null>,name=zimee777,properties={},legacy=false] (/127.42.207.129:51211) lost connection: Unexpected custom data from client
+[13May2025 05:44:17.594] [Server thread/DEBUG] [pointblank/]: 57594 handling client fire request
+[13May2025 05:44:17.594] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 126314185 to 6
+[13May2025 05:44:17.596] [Server thread/DEBUG] [pointblank/]: 57596 - obtained hit result in 0ms
+[13May2025 05:44:17.596] [Server thread/DEBUG] [pointblank/]: 57596 obtained hit results
+[13May2025 05:44:17.596] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4d0ff536
+[13May2025 05:44:17.599] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/1739, l='ServerLevel[world]', x=64.08, y=81.00, z=-191.01] sends hit scan notification to ServerPlayer['d0ce3_'/1739, l='ServerLevel[world]', x=64.08, y=81.00, z=-191.01]
+[13May2025 05:44:18.279] [Server thread/DEBUG] [pointblank/]: 58279 handling client fire request
+[13May2025 05:44:18.279] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 126314185 to 5
+[13May2025 05:44:18.279] [Server thread/DEBUG] [pointblank/]: 58279 - obtained hit result in 0ms
+[13May2025 05:44:18.279] [Server thread/DEBUG] [pointblank/]: 58279 obtained hit results
+[13May2025 05:44:18.279] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6e3d68f
+[13May2025 05:44:18.280] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/1739, l='ServerLevel[world]', x=63.83, y=81.00, z=-191.06] sends hit scan notification to ServerPlayer['d0ce3_'/1739, l='ServerLevel[world]', x=63.83, y=81.00, z=-191.06]
+[13May2025 05:44:18.828] [Server thread/DEBUG] [pointblank/]: 58828 handling client fire request
+[13May2025 05:44:18.828] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 126314185 to 4
+[13May2025 05:44:18.828] [Server thread/DEBUG] [pointblank/]: 58828 - obtained hit result in 0ms
+[13May2025 05:44:18.829] [Server thread/DEBUG] [pointblank/]: 58829 obtained hit results
+[13May2025 05:44:18.829] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2c485735
+[13May2025 05:44:18.829] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/1739, l='ServerLevel[world]', x=61.59, y=80.94, z=-190.83] sends hit scan notification to ServerPlayer['d0ce3_'/1739, l='ServerLevel[world]', x=61.59, y=80.94, z=-190.83]
+[13May2025 05:44:26.180] [Server thread/DEBUG] [pointblank/]: 66180 handling client fire request
+[13May2025 05:44:26.180] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 126314185 to 3
+[13May2025 05:44:26.180] [Server thread/DEBUG] [pointblank/]: 66180 - obtained hit result in 0ms
+[13May2025 05:44:26.180] [Server thread/DEBUG] [pointblank/]: 66180 obtained hit results
+[13May2025 05:44:26.180] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2052b246
+[13May2025 05:44:26.195] [Server thread/DEBUG] [pointblank/]: Creating state e88dc8a6-fa7a-44ff-b1c6-2c56644851ad
+[13May2025 05:44:26.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Monster Hunter]
+[13May2025 05:44:26.205] [Server thread/DEBUG] [pointblank/]: ServerPlayer['d0ce3_'/1739, l='ServerLevel[world]', x=56.35, y=77.00, z=-179.93] sends hit scan notification to ServerPlayer['d0ce3_'/1739, l='ServerLevel[world]', x=56.35, y=77.00, z=-179.93]
+[13May2025 05:44:30.973] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 126314185 to 7
+[13May2025 05:44:52.968] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:45:04.267] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:45:07.367] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:45:09.367] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:45:34.368] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:46:28.767] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:46:37.415] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:46:53.218] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:47:28.919] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:48:04.889] [IO-Worker-106/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[13May2025 05:48:04.890] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[13May2025 05:48:04.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 05:48:04.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 05:48:17.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 05:48:18.595] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 05:48:18.596] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d0ce3_ to connected: {disabled=false, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 05:48:18.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[13May2025 05:48:18.782] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 05:50:00.277] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[13May2025 05:50:00.277] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[13May2025 05:50:00.495] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[13May2025 05:50:00.495] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[13May2025 05:50:47.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/505, l='ServerLevel[world]', x=59.30, y=78.00, z=-192.70] died, message: 'Arms Dealer was slain by Zombie'
+[13May2025 05:51:02.241] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[13May2025 05:53:04.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 05:53:04.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 05:53:09.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Made d0ce3_ no longer a server operator]
+[13May2025 05:54:22.126] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/484, l='ServerLevel[world]', x=-25.32, y=64.00, z=-140.14] died, message: 'Farmer was slain by Warrior'
+[13May2025 05:54:24.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made d0ce3_ a server operator
+[13May2025 05:54:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Set own game mode to Creative Mode]
+[13May2025 05:54:59.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Set own game mode to Survival Mode]
+[13May2025 05:55:17.183] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[13May2025 05:55:21.172] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[13May2025 05:55:21.173] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[13May2025 05:55:47.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Mine? Mine? Mine?]
+[13May2025 05:56:21.568] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:56:50.339] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[13May2025 05:56:55.713] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[13May2025 05:57:28.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/508, l='ServerLevel[world]', x=27.25, y=73.00, z=-192.47] died, message: 'Arms Dealer succumbed to infection.'
+[13May2025 05:58:01.113] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[13May2025 05:58:04.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 05:58:04.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 05:58:50.426] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[13May2025 05:59:38.895] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 42 messages to dispatch.
+[13May2025 05:59:38.928] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[13May2025 05:59:38.978] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[13May2025 05:59:39.032] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[13May2025 05:59:39.081] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[13May2025 05:59:39.132] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[13May2025 05:59:39.171] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[13May2025 05:59:39.171] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[13May2025 05:59:39.172] [Netty Epoll Server IO #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@799dea59[id=<null>,name=zimee777,properties={},legacy=false] (/127.42.207.129:46941): Unexpected custom data from client
+[13May2025 05:59:39.183] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@799dea59[id=<null>,name=zimee777,properties={},legacy=false] (/127.42.207.129:46941) lost connection: Unexpected custom data from client
+[13May2025 06:00:06.538] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:07.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 54069e65-d697-3049-9cfd-44262b1466bb timed out
+[13May2025 06:00:07.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player d0ce3_
+[13May2025 06:00:07.403] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to d0ce3_
+[13May2025 06:00:07.403] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with d0ce3_
+[13May2025 06:00:07.403] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with d0ce3_
+[13May2025 06:00:07.404] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[13May2025 06:00:07.404] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 54069e65-d697-3049-9cfd-44262b1466bb to disconnected: {disabled=true, disconnected=true, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:07.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:00:08.639] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:00:08.639] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d0ce3_ to connected: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:08.639] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[13May2025 06:00:08.829] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:19.628] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:20.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 54069e65-d697-3049-9cfd-44262b1466bb timed out
+[13May2025 06:00:20.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player d0ce3_
+[13May2025 06:00:20.486] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to d0ce3_
+[13May2025 06:00:20.486] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with d0ce3_
+[13May2025 06:00:20.486] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with d0ce3_
+[13May2025 06:00:20.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[13May2025 06:00:20.487] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 54069e65-d697-3049-9cfd-44262b1466bb to disconnected: {disabled=true, disconnected=true, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:20.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:00:21.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:00:21.689] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d0ce3_ to connected: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:21.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[13May2025 06:00:21.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:21.946] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 42 messages to dispatch.
+[13May2025 06:00:21.983] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[13May2025 06:00:22.029] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[13May2025 06:00:22.080] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[13May2025 06:00:22.131] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[13May2025 06:00:22.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[13May2025 06:00:22.233] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[13May2025 06:00:22.234] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 0
+[13May2025 06:00:22.234] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.simple.IndexedMessageCodec/SIMPLENET]: Received empty payload on channel fml:handshake
+[13May2025 06:00:22.234] [Netty Epoll Server IO #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@229e1d91[id=<null>,name=zimee777,properties={},legacy=false] (/127.42.207.129:40913): Unexpected custom data from client
+[13May2025 06:00:22.279] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@229e1d91[id=<null>,name=zimee777,properties={},legacy=false] (/127.42.207.129:40913) lost connection: Unexpected custom data from client
+[13May2025 06:00:31.876] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:32.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 54069e65-d697-3049-9cfd-44262b1466bb timed out
+[13May2025 06:00:32.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player d0ce3_
+[13May2025 06:00:32.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to d0ce3_
+[13May2025 06:00:32.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with d0ce3_
+[13May2025 06:00:32.578] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with d0ce3_
+[13May2025 06:00:32.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[13May2025 06:00:32.579] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 54069e65-d697-3049-9cfd-44262b1466bb to disconnected: {disabled=true, disconnected=true, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:32.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:00:33.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:00:33.842] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d0ce3_ to connected: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:00:33.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[13May2025 06:00:34.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:01:01.119] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[13May2025 06:01:06.893] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:01:07.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 54069e65-d697-3049-9cfd-44262b1466bb timed out
+[13May2025 06:01:07.793] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player d0ce3_
+[13May2025 06:01:07.794] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to d0ce3_
+[13May2025 06:01:07.794] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with d0ce3_
+[13May2025 06:01:07.794] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with d0ce3_
+[13May2025 06:01:07.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[13May2025 06:01:07.794] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 54069e65-d697-3049-9cfd-44262b1466bb to disconnected: {disabled=true, disconnected=true, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:01:08.063] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:01:09.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:01:09.068] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d0ce3_ to connected: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:01:09.068] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[13May2025 06:01:09.246] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:02:51.177] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[13May2025 06:02:51.453] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[13May2025 06:03:04.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 06:03:04.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 06:07:09.874] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:07:10.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 54069e65-d697-3049-9cfd-44262b1466bb timed out
+[13May2025 06:07:10.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player d0ce3_
+[13May2025 06:07:10.761] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to d0ce3_
+[13May2025 06:07:10.761] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with d0ce3_
+[13May2025 06:07:10.761] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with d0ce3_
+[13May2025 06:07:10.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[13May2025 06:07:10.761] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 54069e65-d697-3049-9cfd-44262b1466bb to disconnected: {disabled=true, disconnected=true, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:07:10.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:08:04.893] [IO-Worker-118/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[13May2025 06:08:04.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 06:08:04.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 06:08:05.003] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[13May2025 06:08:08.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 06:08:08.979] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d0ce3_ to connected: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:08:08.980] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[13May2025 06:08:09.145] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of d0ce3_: {disabled=true, disconnected=false, uuid=54069e65-d697-3049-9cfd-44262b1466bb, name=d0ce3_, group=null}
+[13May2025 06:11:40.176] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[13May2025 06:13:04.881] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[13May2025 06:13:04.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 06:13:04.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 06:14:02.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[13May2025 06:14:02.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[13May2025 06:14:02.220] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[13May2025 06:14:02.221] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of d0ce3_
+[13May2025 06:14:02.221] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[13May2025 06:15:02.262] [Worker-Main-92/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-92 shutdown
+[13May2025 06:15:02.262] [Worker-Main-86/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-86 shutdown
+[13May2025 06:16:02.262] [Worker-Main-85/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-85 shutdown
+[13May2025 06:16:02.262] [Worker-Main-89/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-89 shutdown
+[13May2025 06:17:02.262] [Worker-Main-90/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-90 shutdown

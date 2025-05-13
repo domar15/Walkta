@@ -3,6 +3,16 @@
 		name: "Member"
 		power: 1
 		condition: "always_active"
+		back: false
+		command.back: false
+		command.tpa: true
+		command.tpahere: true
+		command.tpaccept: true
+		command.help: false
+		command.forge: false
+		command.sethome: true
+		command.home: true
+		command.delhome: true
 	}
 	vip: {
 		name: "VIP"
