@@ -1348,3 +1348,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13May2025 04:32:23.709] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35b4a6dd[id=<null>,name=d0ce3_,properties={},legacy=false] (/127.185.83.129:46495) lost connection: Disconnected
 [13May2025 04:33:46.109] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35b3c770[id=<null>,name=d0ce3_,properties={},legacy=false] (/127.185.83.129:48047) lost connection: Disconnected
 [13May2025 04:34:19.159] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ba5feab[id=<null>,name=d0ce3_,properties={},legacy=false] (/127.185.83.129:55141) lost connection: Disconnected
+[13May2025 05:30:36.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/127.185.83.129:60419] logged in with entity id 1739 at (2.626886875990773, 64.0, -69.510671032167)
+[13May2025 05:30:36.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[13May2025 05:30:36.173] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to d0ce3_
+[13May2025 05:30:36.175] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[13May2025 05:30:36.176] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[13May2025 05:30:36.178] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[13May2025 05:30:39.152] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from d0ce3_
+[13May2025 05:30:39.194] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of d0ce3_ (18)
+[13May2025 05:30:39.194] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[13May2025 05:30:43.828] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:30:47.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was slain by Zombie
+[13May2025 05:31:06.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was not rescued in time
+[13May2025 05:31:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Your First Grave]
+[13May2025 05:31:06.123] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[13May2025 05:31:08.438] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[13May2025 05:31:30.875] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:31:43.669] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:31:45.416] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:31:48.318] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:32:11.572] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:32:30.522] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:32:36.214] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:32:46.917] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:33:34.469] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:33:48.017] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:34:00.570] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:34:12.166] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:34:54.368] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:35:28.516] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:35:29.218] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:35:33.520] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:36:00.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement ['X' Marks the Spot]
+[13May2025 05:36:10.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made d0ce3_ a server operator
+[13May2025 05:36:16.121] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[13May2025 05:36:43.621] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
