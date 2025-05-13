@@ -19879,3 +19879,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13May2025 05:03:02.761] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
 [13May2025 05:03:02.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13May2025 05:03:02.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 05:08:02.761] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[13May2025 05:08:02.761] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[13May2025 05:08:02.768] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[13May2025 05:08:02.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 05:08:02.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 05:13:02.760] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[13May2025 05:13:02.761] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[13May2025 05:13:02.764] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[13May2025 05:13:02.771] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[13May2025 05:13:02.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 05:13:02.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
