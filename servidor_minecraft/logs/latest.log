@@ -1552,3 +1552,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 05:15:44.149] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
 [14May2025 05:15:45.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 moved wrongly!
 [14May2025 05:15:45.744] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14May2025 05:19:26.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[14May2025 05:19:26.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[14May2025 05:19:26.947] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[14May2025 05:19:26.947] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[14May2025 05:19:37.344] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1797e5ef[id=<null>,name=d0ce3_,properties={},legacy=false] (/127.185.83.129:44323) lost connection: Disconnected
+[14May2025 05:19:43.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/127.185.83.129:60835] logged in with entity id 40819 at (1863.7553561235297, 63.0, -813.595467490878)
+[14May2025 05:19:43.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[14May2025 05:19:43.803] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to d0ce3_
+[14May2025 05:19:43.806] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[14May2025 05:19:43.806] [ForkJoinPool-5-worker-12/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[14May2025 05:19:43.807] [ForkJoinPool-5-worker-12/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[14May2025 05:19:45.281] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from d0ce3_
+[14May2025 05:19:45.295] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of d0ce3_ (18)
+[14May2025 05:19:45.295] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[14May2025 05:19:50.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[14May2025 05:19:51.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[14May2025 05:19:51.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[14May2025 05:27:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Bone Crusher]
