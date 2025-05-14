@@ -1547,3 +1547,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 05:05:11.703] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
 [14May2025 05:05:12.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
 [14May2025 05:05:12.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[14May2025 05:15:40.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by Coconut Crab
+[14May2025 05:15:44.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was not rescued in time
+[14May2025 05:15:44.149] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[14May2025 05:15:45.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 moved wrongly!
+[14May2025 05:15:45.744] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
