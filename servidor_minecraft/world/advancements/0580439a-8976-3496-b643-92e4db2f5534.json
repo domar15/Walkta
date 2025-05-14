@@ -466,7 +466,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-13 07:56:03 +0000",
-      "bread": "2025-05-13 07:13:08 +0000"
+      "bread": "2025-05-13 07:13:08 +0000",
+      "rotten_flesh": "2025-05-14 04:31:13 +0000"
     },
     "done": false
   },
@@ -4080,6 +4081,36 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-05-13 08:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-14 04:31:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-14 04:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-14 04:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-14 04:27:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-14 04:27:52 +0000"
     },
     "done": true
   },
