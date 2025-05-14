@@ -1783,3 +1783,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14May2025 06:12:52.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
 [14May2025 06:12:52.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
 [14May2025 06:16:24.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from zimee777: Location (1868.9999998807907, 63.76380491256714, -822.5119467973709) too far away from hit block BlockPos{x=1868, y=63, z=-822}.
+[14May2025 06:20:39.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[14May2025 06:20:39.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[14May2025 06:20:39.188] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[14May2025 06:20:39.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
+[14May2025 06:22:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14May2025 06:22:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14May2025 06:22:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14May2025 06:22:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14May2025 06:22:04.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14May2025 06:22:04.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14May2025 06:22:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14May2025 06:22:04.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[14May2025 06:22:04.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[14May2025 06:22:04.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14May2025 06:22:04.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14May2025 06:22:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14May2025 06:22:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[14May2025 06:22:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[14May2025 06:22:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14May2025 06:22:05.059] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14May2025 06:22:05.062] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14May2025 06:22:05.064] [Server thread/INFO] [Framework/]: Finished unloading server configs
