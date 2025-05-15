@@ -93,6 +93,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-13 07:27:32 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-15 15:14:32 +0000",
       "minecraft:taiga": "2025-05-13 07:10:28 +0000",
       "minecraft:frozen_river": "2025-05-13 05:31:37 +0000",
       "minecraft:cherry_grove": "2025-05-13 07:16:25 +0000",
@@ -2176,6 +2177,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2025-05-15 15:20:52 +0000",
       "sugar_cane": "2025-05-13 07:47:16 +0000",
       "wheat": "2025-05-14 19:49:08 +0000"
     },
@@ -8843,6 +8845,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-15 15:00:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-05-15 15:05:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-15 15:08:34 +0000"
@@ -8867,21 +8881,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
-    "criteria": {
-      "has_lily_pad": "2025-05-15 15:05:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-05-15 15:08:34 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-05-15 15:00:27 +0000"
     },
     "done": true
   },
@@ -8894,6 +8896,72 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-15 15:08:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 15:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-15 15:18:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 15:18:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 15:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-15 15:18:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-15 15:18:49 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_planks": {
+    "criteria": {
+      "has_larch_log": "2025-05-15 15:19:42 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/larch_wood": {
+    "criteria": {
+      "has_larch_log": "2025-05-15 15:19:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-05-15 15:20:10 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:recipes/ambrosia": {
+    "criteria": {
+      "has_apple": "2025-05-15 15:20:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-05-15 15:21:25 +0000"
     },
     "done": true
   },
