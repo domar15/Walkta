@@ -2028,3 +2028,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 01:44:05.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by Zombie
 [15May2025 01:46:05.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was not rescued in time
 [15May2025 01:46:05.653] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[15May2025 01:48:17.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[15May2025 01:48:17.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[15May2025 01:48:17.964] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[15May2025 01:48:17.964] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
