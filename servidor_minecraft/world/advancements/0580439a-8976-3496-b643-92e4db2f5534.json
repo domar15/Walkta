@@ -469,6 +469,7 @@
       "cooked_porkchop": "2025-05-13 07:56:03 +0000",
       "cooked_mutton": "2025-05-15 14:48:22 +0000",
       "baked_potato": "2025-05-14 06:01:55 +0000",
+      "apple": "2025-05-15 15:57:50 +0000",
       "bread": "2025-05-13 07:13:08 +0000",
       "rotten_flesh": "2025-05-14 04:31:13 +0000"
     },
@@ -6648,6 +6649,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-15 15:24:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-05-15 15:56:52 +0000"
     },
     "done": true
   },
