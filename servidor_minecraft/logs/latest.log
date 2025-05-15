@@ -1570,3 +1570,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 14:09:59.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
 [15May2025 14:10:00.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
 [15May2025 14:10:00.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[15May2025 14:13:05.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13005, l='ServerLevel[world]', x=1832.50, y=69.00, z=-868.50]

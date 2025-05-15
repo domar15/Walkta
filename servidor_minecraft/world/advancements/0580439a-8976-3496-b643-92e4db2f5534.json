@@ -6560,5 +6560,11 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/spruce_bark": {
+    "criteria": {
+      "has_copper_block": "2025-05-15 14:15:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
