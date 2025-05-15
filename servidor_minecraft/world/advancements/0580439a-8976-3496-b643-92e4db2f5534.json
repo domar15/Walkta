@@ -6542,12 +6542,6 @@
     },
     "done": true
   },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-05-15 01:28:48 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-05-15 01:26:11 +0000"
@@ -6557,6 +6551,12 @@
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-05-15 01:26:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-15 01:28:48 +0000"
     },
     "done": true
   },
