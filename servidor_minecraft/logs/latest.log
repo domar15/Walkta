@@ -4871,3 +4871,175 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18May2025 05:57:34.417] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
 [18May2025 05:57:45.627] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [18May2025 05:59:24.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [A Seedy Place]
+[18May2025 06:02:17.939] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[18May2025 06:04:54.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[18May2025 06:04:54.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[18May2025 06:04:54.178] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:04:54.179] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[18May2025 06:05:04.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.69.53.32:64599] logged in with entity id 44622 at (1873.9287561885776, 63.0, -821.3749176691543)
+[18May2025 06:05:04.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[18May2025 06:05:04.141] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to d0ce3_
+[18May2025 06:05:04.142] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:05:04.142] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:05:04.143] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:05:05.186] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from d0ce3_
+[18May2025 06:05:05.186] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of d0ce3_ (18)
+[18May2025 06:05:05.187] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[18May2025 06:05:09.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:05:10.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:05:10.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[18May2025 06:05:47.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 died
+[18May2025 06:05:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was not rescued in time
+[18May2025 06:05:49.717] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[18May2025 06:05:51.248] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 06:11:52.494] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[18May2025 06:17:04.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Penteconter]
+[18May2025 06:19:56.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[18May2025 06:19:56.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[18May2025 06:19:56.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has died of cowardice
+[18May2025 06:19:56.445] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:19:56.445] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[18May2025 06:19:56.456] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[18May2025 06:20:27.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has reached the goal [Bone Crusher]
+[18May2025 06:20:42.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@792092a2[id=<null>,name=d0ce3_,properties={},legacy=false] (/100.69.53.32:64892) lost connection: Disconnected
+[18May2025 06:20:48.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.69.53.32:64901] logged in with entity id 71694 at (3816.570293373544, 62.972131042029844, -1607.058173949326)
+[18May2025 06:20:48.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[18May2025 06:20:48.547] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to d0ce3_
+[18May2025 06:20:48.548] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:20:48.549] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:20:48.550] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:20:49.695] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from d0ce3_
+[18May2025 06:20:49.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of d0ce3_ (18)
+[18May2025 06:20:49.696] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[18May2025 06:20:54.050] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:20:55.058] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:20:55.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[18May2025 06:20:56.424] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 06:21:22.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/72411, l='ServerLevel[world]', x=3791.50, y=72.00, z=-1667.50]
+[18May2025 06:22:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Magic Writing]
+[18May2025 06:24:44.533] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/78049, l='ServerLevel[world]', x=3968.50, y=74.00, z=-1600.50]
+[18May2025 06:24:57.672] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/78433, l='ServerLevel[world]', x=3983.50, y=72.00, z=-1609.50]
+[18May2025 06:25:38.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was slain by Warrior
+[18May2025 06:25:44.220] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/79244, l='ServerLevel[world]', x=3955.50, y=75.00, z=-1597.50]
+[18May2025 06:25:55.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by Warrior
+[18May2025 06:25:57.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was not rescued in time
+[18May2025 06:25:57.450] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[18May2025 06:25:59.230] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 06:25:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was not rescued in time
+[18May2025 06:25:59.448] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[18May2025 06:26:00.672] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 06:26:31.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Here They Come]
+[18May2025 06:27:52.078] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4fb69abe]Trying to start horde event on day 30 with nextDay 30 and time 10000
+[18May2025 06:27:52.083] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@7d3c044d
+[18May2025 06:27:52.085] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=40,minDay=0,maxDay=20] to hordespawn on day 0
+[18May2025 06:27:52.132] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[18May2025 06:28:42.129] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[18May2025 06:29:32.132] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[18May2025 06:30:22.127] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[18May2025 06:31:12.134] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[18May2025 06:31:44.870] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/95518, l='ServerLevel[world]', x=3762.50, y=75.00, z=-1630.50]
+[18May2025 06:31:46.720] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/95603, l='ServerLevel[world]', x=3751.50, y=77.00, z=-1647.50]
+[18May2025 06:32:02.134] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[18May2025 06:32:44.922] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/98561, l='ServerLevel[world]', x=3931.50, y=71.00, z=-1623.50]
+[18May2025 06:33:09.471] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/99175, l='ServerLevel[world]', x=3956.50, y=75.00, z=-1599.50]
+[18May2025 06:33:15.228] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/99391, l='ServerLevel[world]', x=3954.50, y=75.00, z=-1599.50]
+[18May2025 06:33:33.020] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/100291, l='ServerLevel[world]', x=4071.50, y=50.00, z=-1534.50]
+[18May2025 06:34:31.752] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[18May2025 06:34:31.799] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[18May2025 06:34:31.825] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[18May2025 06:34:31.861] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[18May2025 06:34:31.893] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[18May2025 06:34:31.915] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[18May2025 06:34:31.985] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: jeffs_cursed_walking_structures:factoryofdoom_parts
+[18May2025 06:34:41.753] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=45, z=544}
+[18May2025 06:34:41.755] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=40, z=545}
+[18May2025 06:34:44.565] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=83, y=45, z=555}
+[18May2025 06:34:44.579] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=40, z=556}
+[18May2025 06:34:44.579] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=40, z=555}
+[18May2025 06:34:44.579] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=40, z=553}
+[18May2025 06:34:44.580] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=81, y=40, z=555}
+[18May2025 06:35:09.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[18May2025 06:35:09.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[18May2025 06:35:09.739] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:35:09.739] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[18May2025 06:35:59.529] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6be5bb2c[id=<null>,name=d0ce3_,properties={},legacy=false] (/100.69.53.32:65168) lost connection: Disconnected
+[18May2025 06:36:06.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.69.53.32:65184] logged in with entity id 106727 at (4472.606643991347, 62.073264324665075, -1153.6898300262658)
+[18May2025 06:36:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[18May2025 06:36:06.972] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to d0ce3_
+[18May2025 06:36:06.973] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:36:06.974] [ForkJoinPool-5-worker-10/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:36:06.974] [ForkJoinPool-5-worker-10/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:36:08.889] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from d0ce3_
+[18May2025 06:36:08.889] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of d0ce3_ (18)
+[18May2025 06:36:08.890] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[18May2025 06:36:27.113] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:36:28.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[18May2025 06:36:28.125] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[18May2025 06:41:39.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by d0ce3_
+[18May2025 06:41:41.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was not rescued in time
+[18May2025 06:41:41.860] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[18May2025 06:41:43.637] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 06:42:01.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ died
+[18May2025 06:42:01.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Killed d0ce3_]
+[18May2025 06:42:04.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was not rescued in time
+[18May2025 06:42:04.051] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[18May2025 06:42:06.900] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18May2025 06:44:58.417] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=601, y=-58, z=1297}
+[18May2025 06:44:58.418] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=601, y=-58, z=1299}
+[18May2025 06:45:38.829] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/128740, l='ServerLevel[world]', x=5129.50, y=73.00, z=-817.50]
+[18May2025 06:45:45.412] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=641, y=-36, z=1352}
+[18May2025 06:46:35.382] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=939, y=-58, z=1288}
+[18May2025 06:46:38.145] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=641, y=-36, z=1352}
+[18May2025 06:46:38.312] [Worker-Main-30/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=866, y=-58, z=1289}
+[18May2025 06:46:39.182] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5425, y=104, z=-712} but found not block entity block Block{minecraft:air} at location
+[18May2025 06:46:39.182] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=5425, y=104, z=-712}
+[18May2025 06:46:49.582] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=910, y=-59, z=1288}
+[18May2025 06:46:49.583] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=911, y=-59, z=1287}
+[18May2025 06:46:49.583] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=909, y=-59, z=1287}
+[18May2025 06:46:50.380] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5488, y=88, z=-735} but found not block entity block Block{minecraft:air} at location
+[18May2025 06:46:50.380] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=5488, y=88, z=-735}
+[18May2025 06:46:51.830] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=739, y=-58, z=1295}
+[18May2025 06:46:51.913] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=906, y=-59, z=1298}
+[18May2025 06:46:51.913] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=905, y=-59, z=1299}
+[18May2025 06:46:51.933] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=907, y=-59, z=1299}
+[18May2025 06:47:59.859] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@69f76f77]Trying to start horde event on day 30 with nextDay 30 and time 10155
+[18May2025 06:47:59.860] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@73c4f9f5
+[18May2025 06:47:59.860] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[18May2025 06:47:59.860] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[18May2025 06:47:59.860] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[18May2025 06:47:59.860] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[18May2025 06:47:59.968] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[18May2025 06:47:59.969] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[18May2025 06:47:59.969] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[18May2025 06:48:49.879] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[18May2025 06:48:49.880] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[18May2025 06:48:49.880] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[18May2025 06:49:39.877] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[18May2025 06:49:39.878] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[18May2025 06:49:39.878] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[18May2025 06:49:48.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[18May2025 06:49:48.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[18May2025 06:49:48.028] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[18May2025 06:49:48.029] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[18May2025 06:49:56.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[18May2025 06:49:56.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[18May2025 06:49:56.877] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[18May2025 06:49:56.877] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
+[18May2025 06:50:52.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18May2025 06:50:52.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18May2025 06:50:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18May2025 06:50:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18May2025 06:50:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18May2025 06:50:55.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[18May2025 06:50:55.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18May2025 06:50:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[18May2025 06:50:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18May2025 06:50:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18May2025 06:50:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[18May2025 06:50:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18May2025 06:50:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[18May2025 06:50:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18May2025 06:50:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18May2025 06:50:55.363] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18May2025 06:50:55.364] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[18May2025 06:50:55.369] [Server thread/INFO] [Framework/]: Finished unloading server configs
