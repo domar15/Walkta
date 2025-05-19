@@ -7180,7 +7180,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "beetroot": "2025-05-18 05:59:24 +0000"
+      "beetroot": "2025-05-18 05:59:24 +0000",
+      "wheat": "2025-05-19 04:22:40 +0000"
     },
     "done": false
   },
@@ -8033,6 +8034,36 @@
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-05-19 03:51:15 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:default/tame_pigeon": {
+    "criteria": {
+      "tame_pigeon": "2025-05-19 04:23:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-19 04:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-19 04:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-19 04:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-19 04:18:03 +0000"
     },
     "done": true
   },
