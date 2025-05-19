@@ -131,6 +131,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-05-19 04:45:00 +0000",
       "opened_chest": "2025-05-13 07:09:12 +0000"
     },
     "done": false
@@ -475,6 +476,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-13 07:56:03 +0000",
       "cooked_mutton": "2025-05-15 14:48:22 +0000",
+      "cooked_beef": "2025-05-19 04:40:17 +0000",
       "baked_potato": "2025-05-14 06:01:55 +0000",
       "apple": "2025-05-15 15:57:50 +0000",
       "mutton": "2025-05-19 03:48:25 +0000",
@@ -8073,9 +8075,33 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-19 04:45:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-05-19 04:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-19 04:32:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-19 04:40:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-05-19 04:40:04 +0000"
     },
     "done": true
   },
@@ -8094,6 +8120,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-19 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-05-19 04:40:04 +0000"
     },
     "done": true
   },

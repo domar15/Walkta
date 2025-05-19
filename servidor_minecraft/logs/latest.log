@@ -1852,3 +1852,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [19May2025 04:33:19.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
 [19May2025 04:33:19.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
 [19May2025 04:34:08.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[19May2025 04:36:11.479] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[19May2025 04:38:19.488] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[19May2025 04:39:52.717] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[19May2025 04:41:09.376] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[19May2025 04:42:04.017] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[19May2025 04:42:54.157] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[19May2025 04:44:40.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ moved wrongly!
+[19May2025 04:45:00.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Barrel Booty]
+[19May2025 04:45:08.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Barrel Booty]
+[19May2025 04:48:29.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by Cassowary
+[19May2025 04:48:33.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was not rescued in time
+[19May2025 04:48:33.523] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[19May2025 04:48:35.415] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19May2025 04:49:50.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by d0ce3_
+[19May2025 04:49:53.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was not rescued in time
+[19May2025 04:49:53.236] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[19May2025 04:49:54.866] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[19May2025 04:50:10.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by d0ce3_
+[19May2025 04:50:43.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[19May2025 04:50:43.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[19May2025 04:50:43.908] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[19May2025 04:50:43.909] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[19May2025 04:50:54.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[19May2025 04:50:54.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[19May2025 04:50:54.558] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[19May2025 04:50:54.558] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
+[19May2025 04:51:43.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19May2025 04:51:43.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19May2025 04:51:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19May2025 04:51:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19May2025 04:51:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19May2025 04:51:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[19May2025 04:51:44.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19May2025 04:51:44.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19May2025 04:51:44.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[19May2025 04:51:45.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19May2025 04:51:45.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[19May2025 04:51:45.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19May2025 04:51:45.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19May2025 04:51:45.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[19May2025 04:51:45.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19May2025 04:51:45.108] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19May2025 04:51:45.110] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[19May2025 04:51:45.112] [Server thread/INFO] [Framework/]: Finished unloading server configs
