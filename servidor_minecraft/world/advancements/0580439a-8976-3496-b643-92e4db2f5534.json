@@ -8037,12 +8037,6 @@
     },
     "done": true
   },
-  "exoticbirds:default/tame_pigeon": {
-    "criteria": {
-      "tame_pigeon": "2025-05-19 04:23:22 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-05-19 04:18:03 +0000"
@@ -8064,6 +8058,48 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-19 04:18:03 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:default/tame_pigeon": {
+    "criteria": {
+      "tame_pigeon": "2025-05-19 04:23:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-19 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-19 04:32:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-19 04:32:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-19 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-19 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-19 04:29:12 +0000"
     },
     "done": true
   },
