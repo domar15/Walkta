@@ -7177,6 +7177,96 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "beetroot": "2025-05-18 05:59:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2025-05-18 05:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-18 05:59:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-18 05:59:32 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2025-05-18 05:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-18 05:59:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_pallet": {
+    "criteria": {
+      "has_planks": "2025-05-18 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-05-18 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_frame": {
+    "criteria": {
+      "has_planks": "2025-05-18 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_beam": {
+    "criteria": {
+      "has_log": "2025-05-18 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_wall": {
+    "criteria": {
+      "has_logs": "2025-05-18 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-18 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 06:19:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 06:20:27 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-05-18 06:40:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 06:45:43 +0000"
@@ -7186,12 +7276,6 @@
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 06:45:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-05-18 05:59:32 +0000"
     },
     "done": true
   },
@@ -7218,12 +7302,6 @@
       "has_granite": "2025-05-18 06:45:43 +0000"
     },
     "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "beetroot": "2025-05-18 05:59:24 +0000"
-    },
-    "done": false
   },
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
@@ -7261,39 +7339,9 @@
     },
     "done": true
   },
-  "bbb:recipes/dark_oak_pallet": {
-    "criteria": {
-      "has_planks": "2025-05-18 06:19:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-05-18 05:59:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-18 06:45:43 +0000"
-    },
-    "done": true
-  },
-  "copycats:recipes/misc/crafting/copycat_iron_door": {
-    "criteria": {
-      "has_item": "2025-05-18 06:40:35 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
-    "criteria": {
-      "has_beetroot": "2025-05-18 05:59:32 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
-    "criteria": {
-      "has_log": "2025-05-18 06:19:58 +0000"
     },
     "done": true
   },
@@ -7306,12 +7354,6 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 06:45:43 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-05-18 06:20:27 +0000"
     },
     "done": true
   },
@@ -7345,12 +7387,6 @@
     },
     "done": true
   },
-  "bbb:recipes/dark_oak_frame": {
-    "criteria": {
-      "has_planks": "2025-05-18 06:19:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-05-18 06:45:43 +0000"
@@ -7360,12 +7396,6 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-18 06:45:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-05-18 05:59:32 +0000"
     },
     "done": true
   },
@@ -7393,12 +7423,6 @@
     },
     "done": true
   },
-  "bbb:recipes/dark_oak_beam": {
-    "criteria": {
-      "has_log": "2025-05-18 06:19:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 06:45:43 +0000"
@@ -7417,12 +7441,6 @@
     },
     "done": true
   },
-  "bbb:recipes/dark_oak_wall": {
-    "criteria": {
-      "has_logs": "2025-05-18 06:19:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 06:45:43 +0000"
@@ -7435,18 +7453,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-05-18 06:19:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-18 06:19:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 06:45:43 +0000"
@@ -7456,12 +7462,6 @@
   "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-05-18 06:45:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "beetroots": "2025-05-18 05:59:24 +0000"
     },
     "done": true
   },
