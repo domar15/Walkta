@@ -8135,15 +8135,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-21 03:01:25 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-21 03:10:11 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
+  "bloomingnature:recipes/gray_dye_from_goatsbeard": {
     "criteria": {
-      "has_name_tag": "2025-05-21 03:01:25 +0000"
+      "has_goatsbeard": "2025-05-21 03:17:33 +0000"
     },
     "done": true
   },
