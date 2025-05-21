@@ -21974,3 +21974,162 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21May2025 01:52:09.781] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
 [21May2025 01:52:09.781] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
 [21May2025 01:52:09.781] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[21May2025 01:52:10.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.179] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.180] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.181] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.182] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.183] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[21May2025 01:52:10.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[21May2025 01:52:10.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[21May2025 01:52:10.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 41
+[21May2025 01:52:10.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[21May2025 01:52:10.185] [Netty Epoll Server IO #2/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[21May2025 01:52:10.185] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 42
+[21May2025 01:52:10.185] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[21May2025 01:52:10.210] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[21May2025 01:52:10.263] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21May2025 01:52:10.264] [Netty Epoll Server IO #2/DEBUG] [mixin/]: Mixing CompressionDecoderMixin from packetfixer-common.mixins.json into net.minecraft.network.CompressionDecoder
+[21May2025 01:52:10.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:56566] logged in with entity id 590 at (1875.3017925714978, 63.0, -828.1183665538102)
+[21May2025 01:52:10.470] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1eb37ba0 into net.minecraft.network.Connection@5ea4c462
+[21May2025 01:52:10.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[21May2025 01:52:10.551] [Server thread/DEBUG] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Loaded corgitaco.enhancedcelestials.forge.platform.ForgePlatformHelper@495c82db for service interface corgitaco.enhancedcelestials.platform.services.IPlatformHelper
+[21May2025 01:52:10.567] [Server thread/DEBUG] [mixin/]: Mixing ChunkMapAccessor$TrackedEntityAccessor from railways.mixins.json into net.minecraft.server.level.ChunkMap$TrackedEntity
+[21May2025 01:52:10.568] [Server thread/DEBUG] [mixin/]: Mixing camera.TrackedEntityMixin from securitycraft.mixins.json into net.minecraft.server.level.ChunkMap$TrackedEntity
+[21May2025 01:52:10.568] [Server thread/DEBUG] [mixin/]: Mixing conductor_possession.TrackedEntityMixin from railways-common.mixins.json into net.minecraft.server.level.ChunkMap$TrackedEntity
+[21May2025 01:52:10.572] [Server thread/DEBUG] [mixin/]: Mixing ServerEntityMixin from quark.mixins.json into net.minecraft.server.level.ServerEntity
+[21May2025 01:52:10.635] [Server thread/DEBUG] [FTB Teams/]: player 0580439a-8976-3496-b643-92e4db2f5534 logged in, player team = zimee777#0580439a
+[21May2025 01:52:10.636] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[21May2025 01:52:10.654] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[21May2025 01:52:10.655] [Server thread/DEBUG] [FTB Teams/]: sending team login event for 0580439a-8976-3496-b643-92e4db2f5534...
+[21May2025 01:52:10.655] [Server thread/DEBUG] [FTB Teams/]: team login event for 0580439a-8976-3496-b643-92e4db2f5534 sent
+[21May2025 01:52:10.656] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to zimee777
+[21May2025 01:52:10.670] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 01:52:10.678] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[21May2025 01:52:10.680] [ForkJoinPool-5-worker-1/DEBUG] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/zimee777
+[21May2025 01:52:10.713] [Server thread/DEBUG] [mixin/]: Mixing MixinToolboxHandler from railways-common.mixins.json into com.simibubi.create.content.equipment.toolbox.ToolboxHandler
+[21May2025 01:52:10.713] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$railways$findNearbyConductors$0(Lnet/minecraft/world/phys/Vec3;Lcom/simibubi/create/content/equipment/toolbox/ToolboxBlockEntity;Lcom/simibubi/create/content/equipment/toolbox/ToolboxBlockEntity;)I to mdb5c746$lambda$railways$findNearbyConductors$0$0 in railways-common.mixins.json:MixinToolboxHandler
+[21May2025 01:52:10.750] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of zimee777: {disabled=false, disconnected=true, uuid=0580439a-8976-3496-b643-92e4db2f5534, name=zimee777, group=null}
+[21May2025 01:52:10.767] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-30
+[21May2025 01:52:10.768] [Worker-Main-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-31
+[21May2025 01:52:10.769] [Worker-Main-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-32
+[21May2025 01:52:10.769] [Worker-Main-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-33
+[21May2025 01:52:10.769] [Worker-Main-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-34
+[21May2025 01:52:10.770] [Worker-Main-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-35
+[21May2025 01:52:10.770] [Worker-Main-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-36
+[21May2025 01:52:10.770] [Worker-Main-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-37
+[21May2025 01:52:10.771] [Worker-Main-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-38
+[21May2025 01:52:10.771] [Worker-Main-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-39
+[21May2025 01:52:10.772] [Worker-Main-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-40
+[21May2025 01:52:10.772] [Worker-Main-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-41
+[21May2025 01:52:10.772] [Worker-Main-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-42
+[21May2025 01:52:10.773] [Worker-Main-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-43
+[21May2025 01:52:10.773] [Worker-Main-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-44
+[21May2025 01:52:10.799] [Server thread/DEBUG] [mixin/]: Mixing MixinLocalMobCapCalculator from enhancedcelestials.mixins.json into net.minecraft.world.level.LocalMobCapCalculator
+[21May2025 01:52:10.801] [Server thread/DEBUG] [mixin/]: Mixing access.LocalMobCapCalculatorAccess from enhancedcelestials.mixins.json into net.minecraft.world.level.LocalMobCapCalculator
+[21May2025 01:52:10.805] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/NaturalSpawner
+[21May2025 01:52:10.833] [Server thread/DEBUG] [mixin/]: Mixing MixinWorldEntitySpawner from enhancedcelestials.mixins.json into net.minecraft.world.level.NaturalSpawner
+[21May2025 01:52:10.842] [Server thread/DEBUG] [mixin/]: Mixing access.WorldEntitySpawnerAccess from enhancedcelestials.mixins.json into net.minecraft.world.level.NaturalSpawner
+[21May2025 01:52:10.842] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method getMagicNumber()I to getMagicNumber_$md$b5c746$0 in enhancedcelestials.mixins.json:access.WorldEntitySpawnerAccess
+[21May2025 01:52:10.852] [Server thread/DEBUG] [mixin/]: Mixing MixinEntityDensityManager from enhancedcelestials.mixins.json into net.minecraft.world.level.NaturalSpawner$SpawnState
+[21May2025 01:52:10.895] [Server thread/DEBUG] [mixin/]: Mixing PlayerAdvancementsMixin from quark.mixins.json into net.minecraft.server.advancements.AdvancementVisibilityEvaluator
+[21May2025 01:52:10.976] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[21May2025 01:52:10.989] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[21May2025 01:52:11.011] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[21May2025 01:52:11.021] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[21May2025 01:52:11.037] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[21May2025 01:52:11.402] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[21May2025 01:52:11.871] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[21May2025 01:52:12.316] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from zimee777
+[21May2025 01:52:12.452] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zimee777 (18)
+[21May2025 01:52:12.453] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to zimee777
+[21May2025 01:52:12.453] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with zimee777
+[21May2025 01:52:12.453] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with zimee777
+[21May2025 01:52:12.454] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zimee777
+[21May2025 01:52:12.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[21May2025 01:52:12.878] [Server thread/DEBUG] [mixin/]: Mixing access.MobCountsAccess from enhancedcelestials.mixins.json into net.minecraft.world.level.LocalMobCapCalculator$MobCounts
+[21May2025 01:52:16.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 01:52:17.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 01:52:17.174] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of zimee777 to connected: {disabled=false, disconnected=false, uuid=0580439a-8976-3496-b643-92e4db2f5534, name=zimee777, group=null}
+[21May2025 01:52:17.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[21May2025 01:52:17.359] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of zimee777: {disabled=true, disconnected=false, uuid=0580439a-8976-3496-b643-92e4db2f5534, name=zimee777, group=null}
+[21May2025 01:53:46.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0580439a-8976-3496-b643-92e4db2f5534 timed out
+[21May2025 01:53:46.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player zimee777
+[21May2025 01:53:46.575] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to zimee777
+[21May2025 01:53:46.575] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with zimee777
+[21May2025 01:53:46.575] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with zimee777
+[21May2025 01:53:46.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to zimee777
+[21May2025 01:53:46.575] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 0580439a-8976-3496-b643-92e4db2f5534 to disconnected: {disabled=true, disconnected=true, uuid=0580439a-8976-3496-b643-92e4db2f5534, name=zimee777, group=null}
+[21May2025 01:53:50.645] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.114.212.114:57137
+[21May2025 01:53:51.691] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.114.212.114:57137
+[21May2025 01:53:51.693] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.114.212.114:57137
+[21May2025 01:53:51.766] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.114.212.114:57137
+[21May2025 01:53:51.766] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.114.212.114:57137
+[21May2025 01:53:52.545] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /100.114.212.114:57137
+[21May2025 01:53:52.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 01:53:53.317] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[21May2025 01:53:53.317] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[21May2025 01:53:53.377] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of zimee777: {disabled=true, disconnected=true, uuid=0580439a-8976-3496-b643-92e4db2f5534, name=zimee777, group=null}
+[21May2025 01:53:53.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 01:53:53.961] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of zimee777 to connected: {disabled=true, disconnected=false, uuid=0580439a-8976-3496-b643-92e4db2f5534, name=zimee777, group=null}
+[21May2025 01:53:53.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[21May2025 01:53:54.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of zimee777: {disabled=true, disconnected=false, uuid=0580439a-8976-3496-b643-92e4db2f5534, name=zimee777, group=null}
+[21May2025 01:54:43.851] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[21May2025 01:54:43.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 01:54:43.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21May2025 01:57:59.238] [IO-Worker-47/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[21May2025 01:57:59.238] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[21May2025 01:59:43.837] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[21May2025 01:59:43.841] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[21May2025 01:59:43.846] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[21May2025 01:59:43.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21May2025 01:59:43.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
