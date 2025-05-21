@@ -2281,3 +2281,103 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [21May2025 03:22:26.733] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [21May2025 03:22:27.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
 [21May2025 03:22:27.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[21May2025 03:26:13.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 moved too quickly! 0.8307957010990776,-0.1647732818260721,10.011333128921137
+[21May2025 03:26:26.253] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[21May2025 03:27:47.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 moved too quickly! -8.421140899569082,0.028298833813224178,6.693984724769848
+[21May2025 03:27:57.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[21May2025 03:27:57.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[21May2025 03:27:57.776] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[21May2025 03:27:57.777] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
+[21May2025 03:28:46.576] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@631130bf[id=<null>,name=zimee777,properties={},legacy=false] (/100.114.212.114:58586) lost connection: Disconnected
+[21May2025 03:29:17.524] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22abf5da[id=<null>,name=zimee777,properties={},legacy=false] (/100.114.212.114:58588) lost connection: Disconnected
+[21May2025 03:29:21.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:58589] logged in with entity id 58141 at (1880.664954008618, 63.0, -848.6509194610488)
+[21May2025 03:29:21.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[21May2025 03:29:21.416] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to zimee777
+[21May2025 03:29:21.417] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 03:29:21.417] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[21May2025 03:29:21.537] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[21May2025 03:29:21.588] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from zimee777
+[21May2025 03:29:21.589] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zimee777 (18)
+[21May2025 03:29:21.589] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zimee777
+[21May2025 03:29:25.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 03:29:26.658] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 03:29:26.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[21May2025 03:32:18.448] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[21May2025 03:36:39.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[21May2025 03:36:39.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[21May2025 03:36:39.277] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[21May2025 03:36:39.278] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[21May2025 03:36:48.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.69.53.32:61990] logged in with entity id 62471 at (1869.1619238263888, 63.0, -795.2172262773983)
+[21May2025 03:36:48.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[21May2025 03:36:48.844] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to d0ce3_
+[21May2025 03:36:48.845] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[21May2025 03:36:48.846] [ForkJoinPool-5-worker-10/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[21May2025 03:36:48.846] [ForkJoinPool-5-worker-10/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[21May2025 03:36:49.906] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from d0ce3_
+[21May2025 03:36:49.906] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of d0ce3_ (18)
+[21May2025 03:36:49.907] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[21May2025 03:36:54.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[21May2025 03:36:55.321] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[21May2025 03:36:55.321] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[21May2025 03:38:04.336] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@19321419]Trying to start horde event on day 40 with nextDay 40 and time 10087
+[21May2025 03:38:04.341] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@68b5f803
+[21May2025 03:38:04.344] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[21May2025 03:38:04.382] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 40
+[21May2025 03:38:20.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 moved too quickly! -0.47565503830969647,1.1661092609382138,-10.094697091206854
+[21May2025 03:38:37.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[21May2025 03:38:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[21May2025 03:38:37.340] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[21May2025 03:38:37.341] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
+[21May2025 03:39:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was impaled by Drowned
+[21May2025 03:39:11.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was not rescued in time
+[21May2025 03:39:11.250] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[21May2025 03:39:12.839] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[21May2025 03:39:25.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:59080] logged in with entity id 64464 at (1877.0793036383754, 64.00133597911214, -836.0418676898378)
+[21May2025 03:39:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[21May2025 03:39:25.635] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to zimee777
+[21May2025 03:39:25.637] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 03:39:25.638] [ForkJoinPool-5-worker-11/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[21May2025 03:39:25.894] [ForkJoinPool-5-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[21May2025 03:39:26.588] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from zimee777
+[21May2025 03:39:26.601] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zimee777 (18)
+[21May2025 03:39:26.602] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zimee777
+[21May2025 03:39:42.632] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[21May2025 03:40:25.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[21May2025 03:40:25.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[21May2025 03:40:25.800] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[21May2025 03:40:25.801] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
+[21May2025 03:40:58.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:59552] logged in with entity id 65219 at (1877.0793036383754, 64.00133597911214, -836.0418676898378)
+[21May2025 03:40:58.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[21May2025 03:40:58.341] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to zimee777
+[21May2025 03:40:58.342] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 03:40:58.343] [ForkJoinPool-5-worker-12/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[21May2025 03:40:58.446] [ForkJoinPool-5-worker-12/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[21May2025 03:40:58.542] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from zimee777
+[21May2025 03:40:58.546] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zimee777 (18)
+[21May2025 03:40:58.546] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zimee777
+[21May2025 03:41:04.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 03:41:05.135] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[21May2025 03:41:05.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
+[21May2025 03:41:05.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[21May2025 03:41:55.140] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[21May2025 03:42:45.135] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[21May2025 03:43:35.142] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[21May2025 03:49:30.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from zimee777: Location (1868.9999998807907, 63.861672163009644, -822.6596761345863) too far away from hit block BlockPos{x=1868, y=63, z=-822}.
+[21May2025 03:51:42.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[21May2025 03:51:42.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[21May2025 03:51:42.831] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[21May2025 03:51:42.831] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client d0ce3_
+[21May2025 03:52:15.778] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e263012[id=<null>,name=d0ce3_,properties={},legacy=false] (/100.69.53.32:62234) lost connection: Disconnected
+[21May2025 03:53:00.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.69.53.32:52115] logged in with entity id 73490 at (1872.325845248109, 61.9375, -788.675479927854)
+[21May2025 03:53:00.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[21May2025 03:53:00.736] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to d0ce3_
+[21May2025 03:53:00.737] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[21May2025 03:53:00.738] [ForkJoinPool-5-worker-13/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[21May2025 03:53:00.738] [ForkJoinPool-5-worker-13/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[21May2025 03:53:02.378] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from d0ce3_
+[21May2025 03:53:02.382] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of d0ce3_ (18)
+[21May2025 03:53:02.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to d0ce3_
+[21May2025 03:53:11.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54069e65-d697-3049-9cfd-44262b1466bb
+[21May2025 03:53:12.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54069e65-d697-3049-9cfd-44262b1466bb
+[21May2025 03:53:12.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb) successfully connected to voice chat
+[21May2025 04:00:19.248] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
