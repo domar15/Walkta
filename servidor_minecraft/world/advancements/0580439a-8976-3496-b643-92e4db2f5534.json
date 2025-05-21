@@ -482,6 +482,7 @@
       "mutton": "2025-05-19 03:48:25 +0000",
       "bread": "2025-05-13 07:13:08 +0000",
       "rotten_flesh": "2025-05-14 04:31:13 +0000",
+      "melon_slice": "2025-05-21 04:14:47 +0000",
       "cooked_chicken": "2025-05-18 06:09:18 +0000"
     },
     "done": false
@@ -7183,6 +7184,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "beetroot": "2025-05-18 05:59:24 +0000",
+      "potato": "2025-05-21 04:20:19 +0000",
       "wheat": "2025-05-19 04:22:40 +0000"
     },
     "done": false
@@ -8153,6 +8155,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-21 04:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2025-05-21 03:47:47 +0000"
@@ -8171,9 +8179,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-21 04:14:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/purple_sheet": {
     "criteria": {
       "has_purple_sheet": "2025-05-21 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-21 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-21 04:15:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-21 04:14:45 +0000"
     },
     "done": true
   },
@@ -8186,6 +8218,12 @@
   "comforts:hammock_purple": {
     "criteria": {
       "has_purple_wool": "2025-05-21 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-21 04:14:45 +0000"
     },
     "done": true
   },
