@@ -10301,6 +10301,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-21 02:38:55 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/light_blue_shipping_container": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
@@ -10316,12 +10322,6 @@
   "createdeco:recipes/decorations/red_shipping_container": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
-    "criteria": {
-      "has_quartz": "2025-05-21 02:47:47 +0000"
     },
     "done": true
   },
@@ -10346,12 +10346,6 @@
   "createdeco:recipes/decorations/decal_down": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-05-21 02:47:47 +0000"
     },
     "done": true
   },
@@ -10439,18 +10433,6 @@
     },
     "done": true
   },
-  "sereneseasons:recipes/redstone/season_sensor": {
-    "criteria": {
-      "has_calendar": "2025-05-21 02:44:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_observer": {
-    "criteria": {
-      "has_quartz": "2025-05-21 02:47:47 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/cyan_shipping_container": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
@@ -10472,12 +10454,6 @@
   "createdeco:recipes/decorations/decal_top_left": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-05-21 02:47:47 +0000"
     },
     "done": true
   },
@@ -10523,27 +10499,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-05-21 02:47:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-05-21 02:47:47 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_down_left": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-05-21 02:47:47 +0000"
     },
     "done": true
   },
@@ -10574,12 +10532,6 @@
   "createdeco:recipes/decorations/decal_flow": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-05-21 02:38:55 +0000"
     },
     "done": true
   },
@@ -10625,18 +10577,6 @@
     },
     "done": true
   },
-  "bbb:recipes/quartz_column": {
-    "criteria": {
-      "has_block": "2025-05-21 02:47:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-05-21 02:47:47 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/light_gray_shipping_container": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
@@ -10646,12 +10586,6 @@
   "createdeco:recipes/decorations/black_shipping_container": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-05-21 02:47:47 +0000"
     },
     "done": true
   },
@@ -10670,6 +10604,72 @@
   "createdeco:recipes/decorations/iron_support_wedge": {
     "criteria": {
       "has_item": "2025-05-21 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_calendar": "2025-05-21 02:44:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_column": {
+    "criteria": {
+      "has_block": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-21 02:47:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-21 02:47:47 +0000"
     },
     "done": true
   },
