@@ -8155,12 +8155,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/melon_popsicle": {
-    "criteria": {
-      "has_melon": "2025-05-21 04:14:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2025-05-21 03:47:47 +0000"
@@ -8179,33 +8173,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-05-21 04:14:45 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/purple_sheet": {
     "criteria": {
       "has_purple_sheet": "2025-05-21 03:47:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-05-21 04:14:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-05-21 04:15:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2025-05-21 04:14:45 +0000"
     },
     "done": true
   },
@@ -8221,15 +8191,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-05-21 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-21 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-21 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-21 04:14:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-21 04:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-05-21 04:14:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_banner": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "has_purple_wool": "2025-05-21 03:47:47 +0000"
+      "has_upgraded_grave_key": "2025-05-21 04:15:58 +0000"
     },
     "done": true
   },
