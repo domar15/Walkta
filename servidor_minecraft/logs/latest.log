@@ -1662,3 +1662,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22May2025 04:06:36.000] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
 [22May2025 04:06:37.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
 [22May2025 04:06:37.004] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[22May2025 04:11:53.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[22May2025 04:11:53.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[22May2025 04:11:53.633] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[22May2025 04:11:53.636] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
+[22May2025 04:11:53.665] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22May2025 04:17:13.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:50479] logged in with entity id 4045 at (1864.2621421610352, 63.085764312744146, -925.9391543224965)
+[22May2025 04:17:13.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[22May2025 04:17:13.594] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to zimee777
+[22May2025 04:17:13.596] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[22May2025 04:17:13.597] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[22May2025 04:17:13.793] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[22May2025 04:17:14.151] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from zimee777
+[22May2025 04:17:14.154] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of zimee777 (18)
+[22May2025 04:17:14.154] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to zimee777
+[22May2025 04:17:19.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0580439a-8976-3496-b643-92e4db2f5534
+[22May2025 04:17:20.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0580439a-8976-3496-b643-92e4db2f5534
+[22May2025 04:17:20.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player zimee777 (0580439a-8976-3496-b643-92e4db2f5534) successfully connected to voice chat
+[22May2025 04:19:49.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0580439a-8976-3496-b643-92e4db2f5534 timed out
+[22May2025 04:19:49.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player zimee777
+[22May2025 04:19:49.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to zimee777
+[22May2025 04:19:58.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[22May2025 04:19:58.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[22May2025 04:19:58.828] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zimee777[0580439a-8976-3496-b643-92e4db2f5534]
+[22May2025 04:19:58.829] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zimee777
